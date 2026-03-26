@@ -1,0 +1,14 @@
+{
+  "name": "blueat-cdn-v2",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.2",
+    "@vercel/node": "^5.3.24",
+    "typescript": "^5.8.3"
+  }
+}
